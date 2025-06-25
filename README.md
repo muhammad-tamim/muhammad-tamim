@@ -29,9 +29,15 @@
 <img src="https://github.com/user-attachments/assets/739b484a-073f-4cd5-a9a8-090ed03aa753" alt="GitHub"/> 
 <img src="https://github.com/user-attachments/assets/febd8dbd-04bc-40aa-95d2-101e6ce47a1c" alt="Tailwind"/> 
 
-<h2>GitHub Analytics</h2> 
+<h2>GitHub Analytics:</h2> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-tamim" alt="muhammad-tamim" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-tamim&show_icons=true&locale=en&layout=compact" alt="muhammad-tamim" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-tamim&show_icons=true&locale=en" alt="muhammad-tamim" /></p>  
 
+<h2>Connect With Me:</h2> 
+<p><a href="https://www.linkedin.com/in/tamim-muhammad/" target="_blank"/> <img  src="https://github.com/user-attachments/assets/ebef2e8e-ab12-445b-a538-4d22b2120d56" alt="LinkedIn Profile"/></p>
 
+<h2>Reach Me:</h2>
+<p>
+  <a href="mailto:contact2tamim@gmail.com" target="_blank">contact2tamim@gmail.com</a>
+</p>
