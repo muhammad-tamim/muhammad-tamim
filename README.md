@@ -21,3 +21,9 @@
   <li>⏳ Next.js</li>
 </ul>
 
+<h3 align="left">Skills:</h3>
+<img src="https://github.com/user-attachments/assets/f7de2ce0-4731-417a-9736-23483072208b" alt="HTML" height="48px"/>
+<img src="https://github.com/user-attachments/assets/c66809ca-d537-4d65-bddb-5c5c99acd8b6" alt="CSS"/> 
+<img src="https://github.com/user-attachments/assets/6fc82942-a24c-4233-a42e-4d71124ef582" alt="GIT"/> 
+<img src="https://github.com/user-attachments/assets/739b484a-073f-4cd5-a9a8-090ed03aa753" alt="GitHub"/> 
+<img src="https://github.com/user-attachments/assets/febd8dbd-04bc-40aa-95d2-101e6ce47a1c" alt="Tailwind"/> 
