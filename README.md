@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-tamim&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-tamim" /> </p>
 
 <h1 align="center">Hi, I'm Muhammad Tamim</h1>
-<p align="center"><strong>Aspiring Front-End Developer</strong></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=350&lines=Aspiring+Front-End+Developer" alt="Typing SVG" /></a></p>
+
 
 <h2>About Me:</h2>
 <p>I’m passionate about <strong>Front-End development</strong>. My goal for 2025 is to become a skilled Front-End Developer. I’ve created a roadmap and actively learning from it:</p>
@@ -21,9 +22,10 @@
   <li>⏳ Next.js</li>
 </ul>
 
-<h3 align="left">Skills:</h3>
+<h2 align="left">Skills:</h2>
 <img src="https://github.com/user-attachments/assets/f7de2ce0-4731-417a-9736-23483072208b" alt="HTML" height="48px"/>
 <img src="https://github.com/user-attachments/assets/c66809ca-d537-4d65-bddb-5c5c99acd8b6" alt="CSS"/> 
 <img src="https://github.com/user-attachments/assets/6fc82942-a24c-4233-a42e-4d71124ef582" alt="GIT"/> 
 <img src="https://github.com/user-attachments/assets/739b484a-073f-4cd5-a9a8-090ed03aa753" alt="GitHub"/> 
 <img src="https://github.com/user-attachments/assets/febd8dbd-04bc-40aa-95d2-101e6ce47a1c" alt="Tailwind"/> 
+
