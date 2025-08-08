@@ -4,21 +4,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-tamim&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-tamim" /> </p>
 
 <h1 align="center">Hi, I'm Muhammad Tamim</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=350&lines=Aspiring+Front-End+Developer" alt="Typing SVG" /></a></p>
+<p align="center">Aspiring MERN Stack Developer</p>
 
 
 <h2>About Me:</h2>
-<p>I’m passionate about <strong>Front-End development</strong>. My goal for 2025 is to become a skilled Front-End Developer. I’ve created a roadmap and actively learning from it:</p>
+<p>I’m passionate about <strong>Full Stack Web Development</strong>. My goal for 2025 is to become a skilled MERN Stack Web Developer. I’ve created a roadmap and actively learning from it:</p>
 <ul>
   <li>✅ HTML</li>
   <li>✅ CSS</li>
   <li>✅ Git & GitHub</li>
   <li>✅ Tailwind CSS</li>
   <li>⚙️ JavaScript <em>(in progress)</em></li>
-  <li>⚙️ DSA <em>(in progress)</em></li>
-  <li>⏳ React</li>
-  <li>⏳ Vitest</li>
-  <li>⏳ TypeScript</li>
+  <li>⏳ React JS</li>
+  <li>⏳ Node JS</li>
+  <li>⏳ Express JS</li>
+  <li>⏳ Mongo DB</li>
   <li>⏳ Next.js</li>
 </ul>
 
