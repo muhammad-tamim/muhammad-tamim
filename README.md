@@ -7,21 +7,29 @@
 </p>
 
 
-Hi, I am Muhammad Tamim. I am a Full Stack Engineer building scalable AI-powered web applications using Next.js and Node.js.
+## Hi, I am Muhammad Tamim
+A Full Stack Engineer building scalable AI-powered web applications using **Next.js** and **Node.js**.
 
-I work across the stack by designing REST APIs, implementing secure authentication, and working with PostgreSQL and MongoDB using Prisma. I also deploy and manage applications with Docker, Nginx, and AWS.
+I design REST APIs, implement secure authentication, and work with **PostgreSQL** and **MongoDB** using **Prisma**. I also deploy and manage applications with **Docker**, **Nginx**, and **AWS**.
 
-Alongside core web development, I build AI-driven features using LangChain and RAG to bring intelligent functionality into applications.
+Alongside core web development, I build AI-driven features using **LangChain** and **RAG** to bring intelligent functionality into applications.
 
-Currently, I am open to remote opportunities to build scalable, AI-powered web applications.
+## Core Stack: 
+**Frontend:** Next.js, React, TypeScript  
 
-### Skills: 
-- **Frontend:** Next.js, React.js, TypeScript, JavaScript, Shadcn, Tailwind CSS, CSS, HTML
-- **Backend:** Node.js, Express.js, MongoDB, SQL, PostgreSQL, Zod, Prisma, Nginx, Docker, AWS, Firebase/better/Next/JWT auth, RESTful APIs
-- **Gen-AI:** LangChain, RAG
+**Backend:** Node.js, Express, PostgreSQL, MongoDB, Prisma, Zod  
 
-### Contact with Me:
+**Infrastructure:** Docker, Nginx, AWS  
 
-- [Portfolio: https://muhammad-tamim.vercel.app](https://muhammad-tamim.vercel.app)  
-- [Email: muhammadtamim2005@gmail.com](mailto:muhammadtamim2005@gmail.com)  
-- [LinkedIn: https://www.linkedin.com/in/tamim-muhammad](https://www.linkedin.com/in/muhammad-tamim)
+**GenAI:** LangChain, RAG  
+
+
+## Contact with Me:
+
+- Portfolio: https://muhammad-tamim.vercel.app  
+- LinkedIn: https://www.linkedin.com/in/muhammad-tamim  
+- Email: muhammadtamim2005@gmail.com  
+
+--- 
+
+<p align='center'>Currently, I am open to remote opportunities to build scalable, AI-powered web applications.</p>
